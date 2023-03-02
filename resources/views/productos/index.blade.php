@@ -9,5 +9,8 @@
     
     <body>
         <h1>Vista del producto</h1>
+        <a href="create">
+            <p>Crear producto</p>
+        </a>
     </body>
 </html>
